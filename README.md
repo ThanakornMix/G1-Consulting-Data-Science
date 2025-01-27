@@ -14,7 +14,7 @@ This provides a comprehensive analysis of co-authorship networks and publication
 
 It Analyses the locations of authors and institutions contributing to the field, highlighting regional research hubs and collaborations. Visualizations such as heatmaps and geographical plots provide insights into how research is distributed globally, identifying regions with significant contributions or emerging research activity
 
-#### Citatioin_Counts.ipynb - 
+#### Citation_Counts.ipynb - 
 
 This focuses on analyzing citation data to evaluate the impact of publications related to CDKN2A research. It includes detailed visualizations and metrics to identify highly cited works, trnds in citation counts over time, and their distribution across jpournals anf researchers. This analysis helps highlight influential papers and their contributions.
 
