@@ -59,7 +59,9 @@ Aggregation: Summarizes data for visualization and intrepretation.
 ### Dependencies 
 
 Python version: 3
+
 Required Libraries:
+
           pandas,
           numpy,
           matplotlib,
