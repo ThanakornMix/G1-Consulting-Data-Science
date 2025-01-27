@@ -37,12 +37,15 @@ Summarizes the total number of publications over time, providing a broader view 
 #### Data Analysis 
 
 Citation Trends: Identifies patterns in citation counts across years.
+
 Author Contributions: Highlights key contributors to CDKN2A research.
+
 Geographical Insights: Visualizes the regional focus of publications.
 
 #### Data Processing 
 
 Cleaning: Handles missing and incosistent data. 
+
 Aggregation: Summarizes data for visualization and intrepretation.
 
 #### Visulizations
