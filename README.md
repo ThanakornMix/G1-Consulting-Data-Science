@@ -75,7 +75,9 @@ Required Libraries:
           networkx,
           crossref,
           pycountry
+
+Enivornment: Jupyter Notebook (v6.5.5)
           
-          
-          
+### Setup
+The project is designed to run in the Google Colab notebook. Execute the cells in the notebook sequentially in order to preprocess the data and perform analysis          
           
